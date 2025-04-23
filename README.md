@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kumar Abhinav Verma
-- 👀 I’m interested in Coding and technical 
+- 👀 I’m interested in Coding and used technical tools in real word
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
